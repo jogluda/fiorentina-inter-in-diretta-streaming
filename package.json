@@ -1,0 +1,16 @@
+{
+    "name": "inter-fiorentina-in-diretta-streaming",
+    "version": "1.0.0",
+    "description": "inter-fiorentina-in-diretta-streaming",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "keywords": [
+      "Live",
+      "Stream",
+      "Reddit"
+    ]
+  }
